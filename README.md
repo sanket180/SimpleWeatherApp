@@ -1,2 +1,2 @@
-# SimpleWeatherApp
-A simple webpage contains weather app
+# Qr Code Generator
+A qr code generator app
